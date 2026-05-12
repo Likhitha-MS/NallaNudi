@@ -1,0 +1,2403 @@
+[
+  {
+    "english": "Photosynthesis",
+    "kannada": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ",
+    "explanation": "Process by which plants make food using sunlight",
+    "subject": "Science"
+  },
+  {
+    "english": "Osmosis",
+    "kannada": "ಅಭಿಸರಣ",
+    "explanation": "Movement of water through a semi-permeable membrane",
+    "subject": "Science"
+  },
+  {
+    "english": "Mitosis",
+    "kannada": "ಸಮವಿಭಜನ",
+    "explanation": "Cell division producing two identical daughter cells",
+    "subject": "Science"
+  },
+  {
+    "english": "Meiosis",
+    "kannada": "ಅರ್ಧಸೂತ್ರ ವಿಭಜನ",
+    "explanation": "Cell division that produces sex cells with half chromosomes",
+    "subject": "Science"
+  },
+  {
+    "english": "Gravity",
+    "kannada": "ಗುರುತ್ವಾಕರ್ಷಣೆ",
+    "explanation": "Force that pulls objects toward the Earth",
+    "subject": "Science"
+  },
+  {
+    "english": "Acceleration",
+    "kannada": "ತ್ವರಣ",
+    "explanation": "Rate of change of velocity with time",
+    "subject": "Science"
+  },
+  {
+    "english": "Evaporation",
+    "kannada": "ಆವಿಯಾಗುವಿಕೆ",
+    "explanation": "Liquid changing to gas at surface level",
+    "subject": "Science"
+  },
+  {
+    "english": "Condensation",
+    "kannada": "ಘನೀಕರಣ",
+    "explanation": "Gas cooling down and turning into liquid",
+    "subject": "Science"
+  },
+  {
+    "english": "Refraction",
+    "kannada": "ವಕ್ರೀಭವನ",
+    "explanation": "Bending of light when it passes through different media",
+    "subject": "Science"
+  },
+  {
+    "english": "Reflection",
+    "kannada": "ಪ್ರತಿಫಲನ",
+    "explanation": "Bouncing back of light from a surface",
+    "subject": "Science"
+  },
+  {
+    "english": "Diffusion",
+    "kannada": "ವ್ಯಾಪನ",
+    "explanation": "Spreading of particles from high to low concentration",
+    "subject": "Science"
+  },
+  {
+    "english": "Respiration",
+    "kannada": "ಉಸಿರಾಟ",
+    "explanation": "Process of releasing energy from food in cells",
+    "subject": "Science"
+  },
+  {
+    "english": "Digestion",
+    "kannada": "ಜೀರ್ಣಕ್ರಿಯೆ",
+    "explanation": "Breaking down of food into absorbable nutrients",
+    "subject": "Science"
+  },
+  {
+    "english": "Chlorophyll",
+    "kannada": "ಹರಿತ್ತು",
+    "explanation": "Green pigment in plants that absorbs sunlight",
+    "subject": "Science"
+  },
+  {
+    "english": "Nucleus",
+    "kannada": "ಕೇಂದ್ರಕ",
+    "explanation": "Control center of a cell containing DNA",
+    "subject": "Science"
+  },
+  {
+    "english": "Chromosome",
+    "kannada": "ವರ್ಣತಂತು",
+    "explanation": "Thread-like structure carrying genetic information",
+    "subject": "Science"
+  },
+  {
+    "english": "Enzyme",
+    "kannada": "ಕಿಣ್ವ",
+    "explanation": "Protein that speeds up chemical reactions in the body",
+    "subject": "Science"
+  },
+  {
+    "english": "Hormone",
+    "kannada": "ಹಾರ್ಮೋನ್",
+    "explanation": "Chemical messenger that regulates body functions",
+    "subject": "Science"
+  },
+  {
+    "english": "Ecosystem",
+    "kannada": "ಪರಿಸರ ವ್ಯವಸ್ಥೆ",
+    "explanation": "Community of organisms and their environment",
+    "subject": "Science"
+  },
+  {
+    "english": "Biodiversity",
+    "kannada": "ಜೀವ ವೈವಿಧ್ಯ",
+    "explanation": "Variety of living organisms in a given area",
+    "subject": "Science"
+  },
+  {
+    "english": "Combustion",
+    "kannada": "ದಹನ",
+    "explanation": "Chemical reaction that produces heat and light",
+    "subject": "Science"
+  },
+  {
+    "english": "Oxidation",
+    "kannada": "ಆಕ್ಸೀಕರಣ",
+    "explanation": "Reaction of a substance with oxygen",
+    "subject": "Science"
+  },
+  {
+    "english": "Electrolysis",
+    "kannada": "ವಿದ್ಯುದ್ವಿಭಜನ",
+    "explanation": "Decomposition of a substance using electric current",
+    "subject": "Science"
+  },
+  {
+    "english": "Conductor",
+    "kannada": "ವಾಹಕ",
+    "explanation": "Material that allows electricity to flow through it",
+    "subject": "Science"
+  },
+  {
+    "english": "Insulator",
+    "kannada": "ನಿರೋಧಕ",
+    "explanation": "Material that does not allow electricity to pass through",
+    "subject": "Science"
+  },
+  {
+    "english": "Magnetism",
+    "kannada": "ಕಾಂತೀಯತೆ",
+    "explanation": "Force of attraction or repulsion between magnets",
+    "subject": "Science"
+  },
+  {
+    "english": "Friction",
+    "kannada": "ಘರ್ಷಣೆ",
+    "explanation": "Resistance force when two surfaces rub together",
+    "subject": "Science"
+  },
+  {
+    "english": "Inertia",
+    "kannada": "ಜಡತ್ವ",
+    "explanation": "Tendency of an object to resist changes in motion",
+    "subject": "Science"
+  },
+  {
+    "english": "Momentum",
+    "kannada": "ರಭಸ",
+    "explanation": "Mass of an object multiplied by its velocity",
+    "subject": "Science"
+  },
+  {
+    "english": "Pressure",
+    "kannada": "ಒತ್ತಡ",
+    "explanation": "Force applied per unit area on a surface",
+    "subject": "Science"
+  },
+  {
+    "english": "Density",
+    "kannada": "ಸಾಂದ್ರತೆ",
+    "explanation": "Mass per unit volume of a substance",
+    "subject": "Science"
+  },
+  {
+    "english": "Buoyancy",
+    "kannada": "ತೇಲುವ ಶಕ್ತಿ",
+    "explanation": "Upward force exerted by a fluid on a submerged object",
+    "subject": "Science"
+  },
+  {
+    "english": "Wavelength",
+    "kannada": "ತರಂಗದೈರ್ಘ್ಯ",
+    "explanation": "Distance between two successive crests of a wave",
+    "subject": "Science"
+  },
+  {
+    "english": "Frequency",
+    "kannada": "ಆವೃತ್ತಿ",
+    "explanation": "Number of wave cycles per second",
+    "subject": "Science"
+  },
+  {
+    "english": "Amplitude",
+    "kannada": "ವ್ಯಾಪ್ತಿ",
+    "explanation": "Maximum displacement of a wave from its rest position",
+    "subject": "Science"
+  },
+  {
+    "english": "Atom",
+    "kannada": "ಪರಮಾಣು",
+    "explanation": "Smallest unit of a chemical element",
+    "subject": "Science"
+  },
+  {
+    "english": "Molecule",
+    "kannada": "ಅಣು",
+    "explanation": "Group of atoms bonded together",
+    "subject": "Science"
+  },
+  {
+    "english": "Ion",
+    "kannada": "ಅಯಾನ್",
+    "explanation": "Electrically charged atom or group of atoms",
+    "subject": "Science"
+  },
+  {
+    "english": "Isotope",
+    "kannada": "ಸಮಸ್ಥಾನಿ",
+    "explanation": "Atoms of same element with different number of neutrons",
+    "subject": "Science"
+  },
+  {
+    "english": "Alloy",
+    "kannada": "ಮಿಶ್ರಲೋಹ",
+    "explanation": "Mixture of two or more metals",
+    "subject": "Science"
+  },
+  {
+    "english": "Polymer",
+    "kannada": "ಬಹುಲಕ",
+    "explanation": "Large molecule made of repeating smaller units",
+    "subject": "Science"
+  },
+  {
+    "english": "Catalyst",
+    "kannada": "ವೇಗವರ್ಧಕ",
+    "explanation": "Substance that speeds up a reaction without being consumed",
+    "subject": "Science"
+  },
+  {
+    "english": "Neutralization",
+    "kannada": "ತಟಸ್ಥೀಕರಣ",
+    "explanation": "Reaction between an acid and a base to form salt and water",
+    "subject": "Science"
+  },
+  {
+    "english": "Precipitation",
+    "kannada": "ಅವಕ್ಷೇಪಣ",
+    "explanation": "Formation of an insoluble solid from a solution",
+    "subject": "Science"
+  },
+  {
+    "english": "Distillation",
+    "kannada": "ಆಸವನ",
+    "explanation": "Purification of liquid by heating and cooling",
+    "subject": "Science"
+  },
+  {
+    "english": "Thermodynamics",
+    "kannada": "ಉಷ್ಣಯಂತ್ರ ವಿಜ್ಞಾನ",
+    "explanation": "Study of heat and energy transformation",
+    "subject": "Science"
+  },
+  {
+    "english": "Radiation",
+    "kannada": "ವಿಕಿರಣ",
+    "explanation": "Energy emitted as waves or particles",
+    "subject": "Science"
+  },
+  {
+    "english": "Convection",
+    "kannada": "ಸಂವಹನ",
+    "explanation": "Heat transfer through movement of fluid",
+    "subject": "Science"
+  },
+  {
+    "english": "Conduction",
+    "kannada": "ವಹನ",
+    "explanation": "Heat transfer through direct contact of materials",
+    "subject": "Science"
+  },
+  {
+    "english": "Tectonic",
+    "kannada": "ಭೂಫಲಕ",
+    "explanation": "Relating to large-scale movement of Earth's crust",
+    "subject": "Science"
+  },
+  {
+    "english": "Erosion",
+    "kannada": "ಸವಕಳಿ",
+    "explanation": "Wearing away of rock or soil by natural forces",
+    "subject": "Science"
+  },
+  {
+    "english": "Photon",
+    "kannada": "ಬೆಳಕಿನ ಕಣ",
+    "explanation": "Smallest particle of light energy",
+    "subject": "Science"
+  },
+  {
+    "english": "Embryo",
+    "kannada": "ಭ್ರೂಣ",
+    "explanation": "Early stage of development of an organism",
+    "subject": "Science"
+  },
+  {
+    "english": "Pollination",
+    "kannada": "ಪರಾಗಸ್ಪರ್ಶ",
+    "explanation": "Transfer of pollen from stamen to pistil in flowers",
+    "subject": "Science"
+  },
+  {
+    "english": "Germination",
+    "kannada": "ಮೊಳಕೆಯೊಡೆಯುವಿಕೆ",
+    "explanation": "Process by which a seed begins to sprout",
+    "subject": "Science"
+  },
+  {
+    "english": "Transpiration",
+    "kannada": "ಬಾಷ್ಪೋತ್ಸರ್ಜನ",
+    "explanation": "Loss of water vapor from plant leaves",
+    "subject": "Science"
+  },
+  {
+    "english": "Fermentation",
+    "kannada": "ಹುದುಗುವಿಕೆ",
+    "explanation": "Breakdown of sugars by yeast or bacteria",
+    "subject": "Science"
+  },
+  {
+    "english": "Mutation",
+    "kannada": "ರೂಪಾಂತರ",
+    "explanation": "Change in the DNA sequence of an organism",
+    "subject": "Science"
+  },
+  {
+    "english": "Heredity",
+    "kannada": "ಆನುವಂಶಿಕತೆ",
+    "explanation": "Passing of traits from parents to offspring",
+    "subject": "Science"
+  },
+  {
+    "english": "Antibiotic",
+    "kannada": "ಪ್ರತಿಜೀವಕ",
+    "explanation": "Medicine that kills or stops bacterial growth",
+    "subject": "Science"
+  },
+  {
+    "english": "Vaccination",
+    "kannada": "ಲಸಿಕೆ",
+    "explanation": "Injection to protect against specific diseases",
+    "subject": "Science"
+  },
+  {
+    "english": "Metabolism",
+    "kannada": "ಚಯಾಪಚಯ",
+    "explanation": "All chemical processes happening in a living organism",
+    "subject": "Science"
+  },
+  {
+    "english": "Homeostasis",
+    "kannada": "ಸಮತೋಲನ ಸ್ಥಿತಿ",
+    "explanation": "Maintaining stable internal conditions in living things",
+    "subject": "Science"
+  },
+  {
+    "english": "Symbiosis",
+    "kannada": "ಸಹಬಾಳ್ವೆ",
+    "explanation": "Close relationship between two different species",
+    "subject": "Science"
+  },
+  {
+    "english": "Parasite",
+    "kannada": "ಪರಾವಲಂಬಿ",
+    "explanation": "Organism that lives on or in another organism causing harm",
+    "subject": "Science"
+  },
+  {
+    "english": "Predator",
+    "kannada": "ಬೇಟೆಗಾರ",
+    "explanation": "Animal that hunts and eats other animals",
+    "subject": "Science"
+  },
+  {
+    "english": "Carnivore",
+    "kannada": "ಮಾಂಸಾಹಾರಿ",
+    "explanation": "Animal that eats only meat",
+    "subject": "Science"
+  },
+  {
+    "english": "Herbivore",
+    "kannada": "ಸಸ್ಯಾಹಾರಿ",
+    "explanation": "Animal that eats only plants",
+    "subject": "Science"
+  },
+  {
+    "english": "Decomposer",
+    "kannada": "ವಿಭಜಕ",
+    "explanation": "Organism that breaks down dead matter into nutrients",
+    "subject": "Science"
+  },
+  {
+    "english": "Fossil",
+    "kannada": "ಪಳೆಯುಳಿಕೆ",
+    "explanation": "Preserved remains of an ancient organism",
+    "subject": "Science"
+  },
+  {
+    "english": "Evolution",
+    "kannada": "ವಿಕಾಸ",
+    "explanation": "Gradual change in species over many generations",
+    "subject": "Science"
+  },
+  {
+    "english": "Natural Selection",
+    "kannada": "ನೈಸರ್ಗಿಕ ಆಯ್ಕೆ",
+    "explanation": "Survival of organisms best adapted to their environment",
+    "subject": "Science"
+  },
+  {
+    "english": "Quantum",
+    "kannada": "ಕ್ವಾಂಟಮ್",
+    "explanation": "Smallest discrete unit of energy",
+    "subject": "Science"
+  },
+  {
+    "english": "Superconductor",
+    "kannada": "ಅತಿ ವಾಹಕ",
+    "explanation": "Material that conducts electricity with zero resistance",
+    "subject": "Science"
+  },
+  {
+    "english": "Fission",
+    "kannada": "ವಿಖಂಡನ",
+    "explanation": "Splitting of an atomic nucleus releasing energy",
+    "subject": "Science"
+  },
+  {
+    "english": "Fusion",
+    "kannada": "ಸಮ್ಮಿಲನ",
+    "explanation": "Joining of atomic nuclei releasing large energy",
+    "subject": "Science"
+  },
+  {
+    "english": "Viscosity",
+    "kannada": "ಸ್ನಿಗ್ಧತೆ",
+    "explanation": "Resistance of a fluid to flow",
+    "subject": "Science"
+  },
+  {
+    "english": "Sublimation",
+    "kannada": "ಊರ್ಧ್ವಾಪತನ",
+    "explanation": "Direct change of solid to gas without becoming liquid",
+    "subject": "Science"
+  },
+  {
+    "english": "Chromatography",
+    "kannada": "ವರ್ಣಲೇಖನ",
+    "explanation": "Technique to separate mixtures by different travel rates",
+    "subject": "Science"
+  },
+  {
+    "english": "Hypothesis",
+    "kannada": "ಊಹೆ",
+    "explanation": "Educated guess or prediction to be tested",
+    "subject": "Science"
+  },
+  {
+    "english": "Equilibrium",
+    "kannada": "ಸಮತೋಲನ",
+    "explanation": "State where opposing forces or reactions are balanced",
+    "subject": "Science"
+  },
+  {
+    "english": "Enthalpy",
+    "kannada": "ಶಾಖ ಸ್ಥಿತಿ",
+    "explanation": "Total heat content of a system",
+    "subject": "Science"
+  },
+  {
+    "english": "Entropy",
+    "kannada": "ಅಸ್ತವ್ಯಸ್ತತೆ",
+    "explanation": "Measure of disorder or randomness in a system",
+    "subject": "Science"
+  },
+  {
+    "english": "Solubility",
+    "kannada": "ಕರಗುವ ಸಾಮರ್ಥ್ಯ",
+    "explanation": "Ability of a substance to dissolve in a solvent",
+    "subject": "Science"
+  },
+  {
+    "english": "Microorganism",
+    "kannada": "ಸೂಕ್ಷ್ಮಜೀವಿ",
+    "explanation": "Living organism too small to see without a microscope",
+    "subject": "Science"
+  },
+  {
+    "english": "Pathogen",
+    "kannada": "ರೋಗಕಾರಕ",
+    "explanation": "Microorganism that causes disease",
+    "subject": "Science"
+  },
+  {
+    "english": "Antibody",
+    "kannada": "ಪ್ರತಿಕಾಯ",
+    "explanation": "Protein that fights specific harmful substances in the body",
+    "subject": "Science"
+  },
+  {
+    "english": "Covalent",
+    "kannada": "ಸಹಭಾಗೀ ಬಂಧ",
+    "explanation": "Bond formed by sharing electrons between atoms",
+    "subject": "Science"
+  },
+  {
+    "english": "Ionic",
+    "kannada": "ಅಯಾನಿಕ",
+    "explanation": "Bond formed by transfer of electrons between atoms",
+    "subject": "Science"
+  },
+  {
+    "english": "Electrode",
+    "kannada": "ವಿದ್ಯುದ್ವಾರ",
+    "explanation": "Conductor through which electricity enters or leaves",
+    "subject": "Science"
+  },
+  {
+    "english": "Allotrope",
+    "kannada": "ಬಹುರೂಪ",
+    "explanation": "Different physical forms of the same element",
+    "subject": "Science"
+  },
+  {
+    "english": "Valence",
+    "kannada": "ಸಂಯೋಜಕತೆ",
+    "explanation": "Combining capacity of an element",
+    "subject": "Science"
+  },
+  {
+    "english": "Titration",
+    "kannada": "ಅನುಮಾಪನ",
+    "explanation": "Method to find concentration of a solution",
+    "subject": "Science"
+  },
+  {
+    "english": "Electromagnetism",
+    "kannada": "ವಿದ್ಯುತ್ಕಾಂತೀಯತೆ",
+    "explanation": "Force combining electric and magnetic fields",
+    "subject": "Science"
+  },
+  {
+    "english": "Optics",
+    "kannada": "ಬೆಳಕಿನ ವಿಜ್ಞಾನ",
+    "explanation": "Study of light and its behavior",
+    "subject": "Science"
+  },
+  {
+    "english": "Acoustics",
+    "kannada": "ಧ್ವನಿ ವಿಜ್ಞಾನ",
+    "explanation": "Study of sound and sound waves",
+    "subject": "Science"
+  },
+  {
+    "english": "Velocity",
+    "kannada": "ವೇಗ",
+    "explanation": "Speed in a given direction",
+    "subject": "Science"
+  },
+  {
+    "english": "Displacement",
+    "kannada": "ಸ್ಥಾನಾಂತರ",
+    "explanation": "Shortest distance from initial to final position",
+    "subject": "Science"
+  },
+  {
+    "english": "Centripetal",
+    "kannada": "ಕೇಂದ್ರಾಭಿಮುಖ",
+    "explanation": "Force directed toward the center of circular motion",
+    "subject": "Science"
+  },
+  {
+    "english": "Torque",
+    "kannada": "ತಿರುಗು ಬಲ",
+    "explanation": "Rotational force that causes an object to spin",
+    "subject": "Science"
+  },
+  {
+    "english": "Resonance",
+    "kannada": "ಅನುನಾದ",
+    "explanation": "Amplification of vibrations at natural frequency",
+    "subject": "Science"
+  },
+  {
+    "english": "Capacitor",
+    "kannada": "ಧಾರಕ",
+    "explanation": "Device that stores electrical energy temporarily",
+    "subject": "Science"
+  },
+  {
+    "english": "Resistor",
+    "kannada": "ರೋಧಕ",
+    "explanation": "Component that opposes the flow of electric current",
+    "subject": "Science"
+  },
+  {
+    "english": "Semiconductor",
+    "kannada": "ಅರೆವಾಹಕ",
+    "explanation": "Material with conductivity between conductor and insulator",
+    "subject": "Science"
+  },
+  {
+    "english": "Spectrum",
+    "kannada": "ವರ್ಣಪಟಲ",
+    "explanation": "Range of colors produced when light is dispersed",
+    "subject": "Science"
+  },
+  {
+    "english": "Dispersion",
+    "kannada": "ವಿಕಿರಣ ವಿಭಜನ",
+    "explanation": "Splitting of white light into its colors",
+    "subject": "Science"
+  },
+  {
+    "english": "Biome",
+    "kannada": "ಜೀವಭೂಗೋಳ",
+    "explanation": "Large geographical area with specific climate and organisms",
+    "subject": "Science"
+  },
+  {
+    "english": "Habitat",
+    "kannada": "ವಾಸಸ್ಥಾನ",
+    "explanation": "Natural home or environment of an organism",
+    "subject": "Science"
+  },
+  {
+    "english": "Adaptation",
+    "kannada": "ಹೊಂದಾಣಿಕೆ",
+    "explanation": "Feature that helps an organism survive in its environment",
+    "subject": "Science"
+  },
+  {
+    "english": "Exothermic",
+    "kannada": "ಉಷ್ಣ ವಿಮೋಚಕ",
+    "explanation": "Reaction that releases heat to the surroundings",
+    "subject": "Science"
+  },
+  {
+    "english": "Endothermic",
+    "kannada": "ಉಷ್ಣ ಹೀರಕ",
+    "explanation": "Reaction that absorbs heat from the surroundings",
+    "subject": "Science"
+  },
+  {
+    "english": "Placenta",
+    "kannada": "ಅಪರ",
+    "explanation": "Organ nourishing the fetus in the mother's womb",
+    "subject": "Science"
+  },
+  {
+    "english": "Neuron",
+    "kannada": "ನರಕೋಶ",
+    "explanation": "Nerve cell that transmits electrical signals",
+    "subject": "Science"
+  },
+  {
+    "english": "Capillary",
+    "kannada": "ಕ್ಷುದ್ರನಾಳ",
+    "explanation": "Tiny blood vessel connecting arteries and veins",
+    "subject": "Science"
+  },
+  {
+    "english": "Artery",
+    "kannada": "ಧಮನಿ",
+    "explanation": "Blood vessel carrying blood away from the heart",
+    "subject": "Science"
+  },
+  {
+    "english": "Vein",
+    "kannada": "ಅಭಿಧಮನಿ",
+    "explanation": "Blood vessel carrying blood toward the heart",
+    "subject": "Science"
+  },
+  {
+    "english": "Transpire",
+    "kannada": "ಬಾಷ್ಪ ಬಿಡು",
+    "explanation": "Release of water vapor from plant surfaces",
+    "subject": "Science"
+  },
+  {
+    "english": "Xylem",
+    "kannada": "ದಾರುಪಾಂಶು",
+    "explanation": "Plant tissue that transports water upward",
+    "subject": "Science"
+  },
+  {
+    "english": "Phloem",
+    "kannada": "ಫ್ಲೋಯಮ್",
+    "explanation": "Plant tissue that transports food made during photosynthesis",
+    "subject": "Science"
+  },
+  {
+    "english": "Absorption",
+    "kannada": "ಹೀರಿಕೊಳ್ಳುವಿಕೆ",
+    "explanation": "Process by which substances are taken into cells or tissues",
+    "subject": "Science"
+  },
+  {
+    "english": "Centrifugation",
+    "kannada": "ಕೇಂದ್ರಾಪಗಾಮಿ ಬೇರ್ಪಡಿಸುವಿಕೆ",
+    "explanation": "Separating substances using spinning at high speed",
+    "subject": "Science"
+  },
+  {
+    "english": "Sedimentation",
+    "kannada": "ನಿಕ್ಷೇಪಣ",
+    "explanation": "Settling of solid particles in a liquid",
+    "subject": "Science"
+  },
+  {
+    "english": "Filtration",
+    "kannada": "ಶೋಧನ",
+    "explanation": "Separating solid from liquid using a filter",
+    "subject": "Science"
+  },
+  {
+    "english": "Crystallization",
+    "kannada": "ಸ್ಫಟಿಕೀಕರಣ",
+    "explanation": "Formation of crystals from a solution",
+    "subject": "Science"
+  },
+  {
+    "english": "Hydrolysis",
+    "kannada": "ಜಲ ವಿಭಜನ",
+    "explanation": "Breaking down a compound using water",
+    "subject": "Science"
+  },
+  {
+    "english": "Polymerization",
+    "kannada": "ಬಹುಲಕೀಕರಣ",
+    "explanation": "Reaction forming a polymer from monomers",
+    "subject": "Science"
+  },
+  {
+    "english": "Magnetosphere",
+    "kannada": "ಕಾಂತ ಗೋಳ",
+    "explanation": "Region around Earth controlled by its magnetic field",
+    "subject": "Science"
+  },
+  {
+    "english": "Atmosphere",
+    "kannada": "ವಾಯುಮಂಡಲ",
+    "explanation": "Layer of gases surrounding a planet",
+    "subject": "Science"
+  },
+  {
+    "english": "Lithosphere",
+    "kannada": "ಭೂಕವಚ",
+    "explanation": "Outer solid layer of the Earth",
+    "subject": "Science"
+  },
+  {
+    "english": "Hydrosphere",
+    "kannada": "ಜಲಮಂಡಲ",
+    "explanation": "All water on or near Earth's surface",
+    "subject": "Science"
+  },
+  {
+    "english": "Photovoltaic",
+    "kannada": "ಸೌರ ವಿದ್ಯುತ್",
+    "explanation": "Converting sunlight directly into electricity",
+    "subject": "Science"
+  },
+  {
+    "english": "Geothermal",
+    "kannada": "ಭೂಉಷ್ಣ",
+    "explanation": "Heat energy generated from inside the Earth",
+    "subject": "Science"
+  },
+  {
+    "english": "Biomass",
+    "kannada": "ಜೀವ ದ್ರವ್ಯ",
+    "explanation": "Organic material used as a source of energy",
+    "subject": "Science"
+  },
+  {
+    "english": "Kinetic Energy",
+    "kannada": "ಚಲನ ಶಕ್ತಿ",
+    "explanation": "Energy possessed by an object due to its motion",
+    "subject": "Science"
+  },
+  {
+    "english": "Integer",
+    "kannada": "ಪೂರ್ಣಾಂಕ",
+    "explanation": "Whole number including negative numbers and zero",
+    "subject": "Maths"
+  },
+  {
+    "english": "Fraction",
+    "kannada": "ಭಿನ್ನರಾಶಿ",
+    "explanation": "Part of a whole expressed as numerator over denominator",
+    "subject": "Maths"
+  },
+  {
+    "english": "Decimal",
+    "kannada": "ದಶಮಾಂಶ",
+    "explanation": "Number with digits after the decimal point",
+    "subject": "Maths"
+  },
+  {
+    "english": "Percentage",
+    "kannada": "ಶೇಕಡಾ",
+    "explanation": "Ratio expressed as parts per hundred",
+    "subject": "Maths"
+  },
+  {
+    "english": "Ratio",
+    "kannada": "ಅನುಪಾತ",
+    "explanation": "Comparison of two quantities by division",
+    "subject": "Maths"
+  },
+  {
+    "english": "Proportion",
+    "kannada": "ಸಮಾನ ಅನುಪಾತ",
+    "explanation": "Equality of two ratios",
+    "subject": "Maths"
+  },
+  {
+    "english": "Variable",
+    "kannada": "ಅಜ್ಞಾತ ರಾಶಿ",
+    "explanation": "Symbol representing an unknown value in an equation",
+    "subject": "Maths"
+  },
+  {
+    "english": "Equation",
+    "kannada": "ಸಮೀಕರಣ",
+    "explanation": "Mathematical statement showing two expressions are equal",
+    "subject": "Maths"
+  },
+  {
+    "english": "Inequality",
+    "kannada": "ಅಸಮತೆ",
+    "explanation": "Mathematical statement showing two unequal expressions",
+    "subject": "Maths"
+  },
+  {
+    "english": "Polynomial",
+    "kannada": "ಬಹುಪದ",
+    "explanation": "Expression with multiple terms involving variables",
+    "subject": "Maths"
+  },
+  {
+    "english": "Coefficient",
+    "kannada": "ಗುಣಕ",
+    "explanation": "Number multiplied by a variable in an expression",
+    "subject": "Maths"
+  },
+  {
+    "english": "Constant",
+    "kannada": "ಸ್ಥಿರಾಂಕ",
+    "explanation": "Fixed value that does not change",
+    "subject": "Maths"
+  },
+  {
+    "english": "Exponent",
+    "kannada": "ಘಾತಾಂಕ",
+    "explanation": "Power to which a number is raised",
+    "subject": "Maths"
+  },
+  {
+    "english": "Logarithm",
+    "kannada": "ಲಘುಗಣಕ",
+    "explanation": "Inverse operation of exponentiation",
+    "subject": "Maths"
+  },
+  {
+    "english": "Factorial",
+    "kannada": "ಅವರೋಹಣ ಗುಣಲಬ್ಧ",
+    "explanation": "Product of all positive integers up to a given number",
+    "subject": "Maths"
+  },
+  {
+    "english": "Permutation",
+    "kannada": "ಕ್ರಮಾಯೋಜನ",
+    "explanation": "Arrangement of objects in a specific order",
+    "subject": "Maths"
+  },
+  {
+    "english": "Combination",
+    "kannada": "ಸಂಯೋಜನ",
+    "explanation": "Selection of objects without considering order",
+    "subject": "Maths"
+  },
+  {
+    "english": "Probability",
+    "kannada": "ಸಂಭಾವ್ಯತೆ",
+    "explanation": "Likelihood of an event occurring",
+    "subject": "Maths"
+  },
+  {
+    "english": "Statistics",
+    "kannada": "ಅಂಕಿಶಾಸ್ತ್ರ",
+    "explanation": "Collection, analysis, and interpretation of data",
+    "subject": "Maths"
+  },
+  {
+    "english": "Mean",
+    "kannada": "ಮಧ್ಯಮಾನ",
+    "explanation": "Sum of all values divided by number of values",
+    "subject": "Maths"
+  },
+  {
+    "english": "Median",
+    "kannada": "ಮಧ್ಯಮಾಂಕ",
+    "explanation": "Middle value when data is arranged in order",
+    "subject": "Maths"
+  },
+  {
+    "english": "Mode",
+    "kannada": "ಬಹುಲಕ",
+    "explanation": "Most frequently occurring value in a data set",
+    "subject": "Maths"
+  },
+  {
+    "english": "Variance",
+    "kannada": "ಭಿನ್ನತೆ",
+    "explanation": "Measure of how spread out data values are",
+    "subject": "Maths"
+  },
+  {
+    "english": "Deviation",
+    "kannada": "ವಿಚಲನ",
+    "explanation": "Distance of a data point from the mean",
+    "subject": "Maths"
+  },
+  {
+    "english": "Theorem",
+    "kannada": "ಪ್ರಮೇಯ",
+    "explanation": "Mathematical statement that has been proven",
+    "subject": "Maths"
+  },
+  {
+    "english": "Proof",
+    "kannada": "ಸಾಧನ",
+    "explanation": "Logical steps used to verify a mathematical statement",
+    "subject": "Maths"
+  },
+  {
+    "english": "Postulate",
+    "kannada": "ಮೂಲ ಸ್ವೀಕೃತಿ",
+    "explanation": "Statement accepted as true without proof",
+    "subject": "Maths"
+  },
+  {
+    "english": "Axiom",
+    "kannada": "ಸ್ವಸಿದ್ಧ",
+    "explanation": "Fundamental rule assumed to be true in mathematics",
+    "subject": "Maths"
+  },
+  {
+    "english": "Perimeter",
+    "kannada": "ಪರಿಧಿ",
+    "explanation": "Total length of the boundary of a shape",
+    "subject": "Maths"
+  },
+  {
+    "english": "Circumference",
+    "kannada": "ವೃತ್ತಪರಿಧಿ",
+    "explanation": "Perimeter of a circle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Diameter",
+    "kannada": "ವ್ಯಾಸ",
+    "explanation": "Straight line passing through center of a circle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Radius",
+    "kannada": "ತ್ರಿಜ್ಯ",
+    "explanation": "Distance from center to edge of a circle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Tangent",
+    "kannada": "ಸ್ಪರ್ಶರೇಖೆ",
+    "explanation": "Line that touches a curve at exactly one point",
+    "subject": "Maths"
+  },
+  {
+    "english": "Chord",
+    "kannada": "ಜ್ಯಾ",
+    "explanation": "Line segment connecting two points on a circle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Arc",
+    "kannada": "ಚಾಪ",
+    "explanation": "Part of the circumference of a circle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Sector",
+    "kannada": "ವೃತ್ತಖಂಡ",
+    "explanation": "Pie-shaped region bounded by two radii and an arc",
+    "subject": "Maths"
+  },
+  {
+    "english": "Congruent",
+    "kannada": "ಸಮಾಕಾರ",
+    "explanation": "Shapes that are identical in size and shape",
+    "subject": "Maths"
+  },
+  {
+    "english": "Similar",
+    "kannada": "ಸದೃಶ",
+    "explanation": "Shapes with same angles but different sizes",
+    "subject": "Maths"
+  },
+  {
+    "english": "Symmetry",
+    "kannada": "ಸಮಮಿತಿ",
+    "explanation": "One half of a shape mirrors the other half",
+    "subject": "Maths"
+  },
+  {
+    "english": "Parallel",
+    "kannada": "ಸಮಾಂತರ",
+    "explanation": "Lines that never meet and are equal distance apart",
+    "subject": "Maths"
+  },
+  {
+    "english": "Perpendicular",
+    "kannada": "ಲಂಬ",
+    "explanation": "Lines that meet at a right angle of 90 degrees",
+    "subject": "Maths"
+  },
+  {
+    "english": "Bisector",
+    "kannada": "ದ್ವಿಭಾಜಕ",
+    "explanation": "Line that divides an angle or segment into two equal parts",
+    "subject": "Maths"
+  },
+  {
+    "english": "Hypotenuse",
+    "kannada": "ಕರ್ಣ",
+    "explanation": "Longest side of a right-angled triangle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Altitude",
+    "kannada": "ಶಿರೋಲಂಬ",
+    "explanation": "Perpendicular height of a triangle from base to apex",
+    "subject": "Maths"
+  },
+  {
+    "english": "Median Line",
+    "kannada": "ಮಧ್ಯರೇಖೆ",
+    "explanation": "Line from vertex to midpoint of opposite side in triangle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Quadrilateral",
+    "kannada": "ಚತುರ್ಭುಜ",
+    "explanation": "Polygon with four sides and four angles",
+    "subject": "Maths"
+  },
+  {
+    "english": "Trapezium",
+    "kannada": "ಚತುರ್ಭುಜ ಸಮಾಂತರ",
+    "explanation": "Quadrilateral with exactly one pair of parallel sides",
+    "subject": "Maths"
+  },
+  {
+    "english": "Rhombus",
+    "kannada": "ಸಮಚತುರ್ಭುಜ",
+    "explanation": "Quadrilateral with all four sides equal",
+    "subject": "Maths"
+  },
+  {
+    "english": "Polygon",
+    "kannada": "ಬಹುಭುಜ",
+    "explanation": "Closed flat shape with many straight sides",
+    "subject": "Maths"
+  },
+  {
+    "english": "Diagonal",
+    "knownnada": "ಕರ್ಣರೇಖೆ",
+    "kannada": "ಕರ್ಣರೇಖೆ",
+    "explanation": "Line joining two non-adjacent vertices of a polygon",
+    "subject": "Maths"
+  },
+  {
+    "english": "Intersection",
+    "kannada": "ಛೇದನ",
+    "explanation": "Point where two lines or curves cross each other",
+    "subject": "Maths"
+  },
+  {
+    "english": "Vertex",
+    "kannada": "ಶೃಂಗ",
+    "explanation": "Corner point of a shape or graph",
+    "subject": "Maths"
+  },
+  {
+    "english": "Coordinate",
+    "kannada": "ನಿರ್ದೇಶಾಂಕ",
+    "explanation": "Numbers defining position on a graph",
+    "subject": "Maths"
+  },
+  {
+    "english": "Gradient",
+    "kannada": "ಇಳಿಜಾರು",
+    "explanation": "Measure of steepness of a line on a graph",
+    "subject": "Maths"
+  },
+  {
+    "english": "Intercept",
+    "kannada": "ಅಕ್ಷ ಛೇದನ",
+    "explanation": "Point where a line crosses an axis",
+    "subject": "Maths"
+  },
+  {
+    "english": "Parabola",
+    "kannada": "ಪರವಲಯ",
+    "explanation": "Curved shape formed by a quadratic equation",
+    "subject": "Maths"
+  },
+  {
+    "english": "Hyperbola",
+    "kannada": "ಅತಿಪರವಲಯ",
+    "explanation": "Curve formed by two branches opening away from each other",
+    "subject": "Maths"
+  },
+  {
+    "english": "Ellipse",
+    "kannada": "ದೀರ್ಘವೃತ್ತ",
+    "explanation": "Oval-shaped closed curve",
+    "subject": "Maths"
+  },
+  {
+    "english": "Trigonometry",
+    "kannada": "ತ್ರಿಕೋಣಮಿತಿ",
+    "explanation": "Study of relationships between angles and sides of triangles",
+    "subject": "Maths"
+  },
+  {
+    "english": "Sine",
+    "kannada": "ಜ್ಯಾ",
+    "explanation": "Ratio of opposite side to hypotenuse in a right triangle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Cosine",
+    "kannada": "ಕೋಜ್ಯಾ",
+    "explanation": "Ratio of adjacent side to hypotenuse in a right triangle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Tangent Ratio",
+    "kannada": "ಸ್ಪರ್ಶಾನುಪಾತ",
+    "explanation": "Ratio of opposite to adjacent side in a right triangle",
+    "subject": "Maths"
+  },
+  {
+    "english": "Integration",
+    "kannada": "ಸಮಾಕಲನ",
+    "explanation": "Mathematical process of finding area under a curve",
+    "subject": "Maths"
+  },
+  {
+    "english": "Differentiation",
+    "kannada": "ಅವಕಲನ",
+    "explanation": "Finding rate of change of a function",
+    "subject": "Maths"
+  },
+  {
+    "english": "Limit",
+    "kannada": "ಮಿತಿ",
+    "explanation": "Value that a function approaches as input gets close to a point",
+    "subject": "Maths"
+  },
+  {
+    "english": "Continuity",
+    "kannada": "ನಿರಂತರತೆ",
+    "explanation": "Property of a function with no breaks or jumps in its graph",
+    "subject": "Maths"
+  },
+  {
+    "english": "Matrix",
+    "kannada": "ಮ್ಯಾಟ್ರಿಕ್ಸ್",
+    "explanation": "Rectangular array of numbers arranged in rows and columns",
+    "subject": "Maths"
+  },
+  {
+    "english": "Determinant",
+    "kannada": "ನಿರ್ಧಾರಕ",
+    "explanation": "Special value calculated from a square matrix",
+    "subject": "Maths"
+  },
+  {
+    "english": "Vector",
+    "kannada": "ಸದಿಶ",
+    "explanation": "Quantity having both magnitude and direction",
+    "subject": "Maths"
+  },
+  {
+    "english": "Scalar",
+    "kannada": "ಅದಿಶ",
+    "explanation": "Quantity having only magnitude, not direction",
+    "subject": "Maths"
+  },
+  {
+    "english": "Sequence",
+    "kannada": "ಅನುಕ್ರಮ",
+    "explanation": "Ordered list of numbers following a pattern",
+    "subject": "Maths"
+  },
+  {
+    "english": "Series",
+    "kannada": "ಶ್ರೇಣಿ",
+    "explanation": "Sum of terms in a sequence",
+    "subject": "Maths"
+  },
+  {
+    "english": "Arithmetic Progression",
+    "kannada": "ಅಂಕಗಣಿತ ಶ್ರೇಢಿ",
+    "explanation": "Sequence where each term increases by a constant difference",
+    "subject": "Maths"
+  },
+  {
+    "english": "Geometric Progression",
+    "kannada": "ಗುಣೋತ್ತರ ಶ್ರೇಢಿ",
+    "explanation": "Sequence where each term is multiplied by a constant ratio",
+    "subject": "Maths"
+  },
+  {
+    "english": "Prime Number",
+    "kannada": "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ",
+    "explanation": "Number with no factors other than one and itself",
+    "subject": "Maths"
+  },
+  {
+    "english": "Composite",
+    "kannada": "ಸಂಯುಕ್ತ ಸಂಖ್ಯೆ",
+    "explanation": "Number with more than two factors",
+    "subject": "Maths"
+  },
+  {
+    "english": "HCF",
+    "kannada": "ಮ.ಸಾ.ಅಪ",
+    "explanation": "Largest number that divides two or more numbers exactly",
+    "subject": "Maths"
+  },
+  {
+    "english": "LCM",
+    "kannada": "ಕ.ಸಾ.ಅ",
+    "explanation": "Smallest number divisible by two or more numbers",
+    "subject": "Maths"
+  },
+  {
+    "english": "Irrational",
+    "kannada": "ಅಭಾಜ್ಯ ಸಂಖ್ಯೆ",
+    "explanation": "Number that cannot be expressed as a simple fraction",
+    "subject": "Maths"
+  },
+  {
+    "english": "Surds",
+    "kannada": "ಮೂಲ ರಾಶಿ",
+    "explanation": "Square root of a non-perfect square number",
+    "subject": "Maths"
+  },
+  {
+    "english": "Quadratic",
+    "kannada": "ದ್ವಿಘಾತ",
+    "explanation": "Polynomial of degree two forming a parabola",
+    "subject": "Maths"
+  },
+  {
+    "english": "Cubic",
+    "kannada": "ಘನ ಸಮೀಕರಣ",
+    "explanation": "Polynomial with highest power of three",
+    "subject": "Maths"
+  },
+  {
+    "english": "Reciprocal",
+    "kannada": "ವ್ಯುತ್ಕ್ರಮ",
+    "explanation": "Result of dividing one by a given number",
+    "subject": "Maths"
+  },
+  {
+    "english": "Absolute Value",
+    "kannada": "ಪರಿಪೂರ್ಣ ಮೌಲ್ಯ",
+    "explanation": "Distance of a number from zero, always positive",
+    "subject": "Maths"
+  },
+  {
+    "english": "Angle",
+    "kannada": "ಕೋನ",
+    "explanation": "Measurement of rotation between two lines from a common point",
+    "subject": "Maths"
+  },
+  {
+    "english": "Complementary",
+    "kannada": "ಪೂರಕ ಕೋನ",
+    "explanation": "Two angles that add up to 90 degrees",
+    "subject": "Maths"
+  },
+  {
+    "english": "Supplementary",
+    "kannada": "ಸಂಪೂರಕ ಕೋನ",
+    "explanation": "Two angles that add up to 180 degrees",
+    "subject": "Maths"
+  },
+  {
+    "english": "Reflex Angle",
+    "kannada": "ವಕ್ರ ಕೋನ",
+    "explanation": "Angle greater than 180 degrees but less than 360",
+    "subject": "Maths"
+  },
+  {
+    "english": "Concentric",
+    "kannada": "ಸಮಕೇಂದ್ರ",
+    "explanation": "Circles sharing the same center point",
+    "subject": "Maths"
+  },
+  {
+    "english": "Transcendental",
+    "kannada": "ಅತೀಂದ್ರಿಯ ಸಂಖ್ಯೆ",
+    "explanation": "Number not a root of any algebraic equation",
+    "subject": "Maths"
+  },
+  {
+    "english": "Numerator",
+    "kannada": "ಅಂಶ",
+    "explanation": "Top number in a fraction",
+    "subject": "Maths"
+  },
+  {
+    "english": "Denominator",
+    "kannada": "ಛೇದ",
+    "explanation": "Bottom number in a fraction",
+    "subject": "Maths"
+  },
+  {
+    "english": "Quotient",
+    "kannada": "ಭಾಗಲಬ್ಧ",
+    "explanation": "Result obtained when one number is divided by another",
+    "subject": "Maths"
+  },
+  {
+    "english": "Remainder",
+    "kannada": "ಶೇಷ",
+    "explanation": "Amount left over after division",
+    "subject": "Maths"
+  },
+  {
+    "english": "Volume",
+    "kannada": "ಆಯತನ",
+    "explanation": "Amount of space occupied by a three-dimensional object",
+    "subject": "Maths"
+  },
+  {
+    "english": "Surface Area",
+    "kannada": "ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ",
+    "explanation": "Total area of all faces of a 3D shape",
+    "subject": "Maths"
+  },
+  {
+    "english": "Cylinder",
+    "kannada": "ಸ್ಥಂಭ",
+    "explanation": "3D shape with two circular ends and curved surface",
+    "subject": "Maths"
+  },
+  {
+    "english": "Cone",
+    "kannada": "ಶಂಕು",
+    "explanation": "3D shape with circular base tapering to a point",
+    "subject": "Maths"
+  },
+  {
+    "english": "Sphere",
+    "kannada": "ಗೋಳ",
+    "explanation": "Perfectly round 3D shape like a ball",
+    "subject": "Maths"
+  },
+  {
+    "english": "Cuboid",
+    "kannada": "ಆಯತ ಘನ",
+    "explanation": "3D rectangular box shape",
+    "subject": "Maths"
+  },
+  {
+    "english": "Prism",
+    "kannada": "ಪ್ರಿಸಮ್",
+    "explanation": "3D shape with identical polygonal cross-sections throughout",
+    "subject": "Maths"
+  },
+  {
+    "english": "Pyramid",
+    "kannada": "ಪಿರಮಿಡ್",
+    "explanation": "3D shape with polygon base and triangular faces meeting at a point",
+    "subject": "Maths"
+  },
+  {
+    "english": "Algebra",
+    "kannada": "ಬೀಜಗಣಿತ",
+    "explanation": "Branch of maths using symbols to represent numbers",
+    "subject": "Maths"
+  },
+  {
+    "english": "Geometry",
+    "kannada": "ರೇಖಾಗಣಿತ",
+    "explanation": "Branch of maths studying shapes, sizes, and properties",
+    "subject": "Maths"
+  },
+  {
+    "english": "Calculus",
+    "kannada": "ಕಲನಶಾಸ್ತ್ರ",
+    "explanation": "Branch of maths dealing with change and accumulation",
+    "subject": "Maths"
+  },
+  {
+    "english": "Set Theory",
+    "kannada": "ಸಮೂಹ ಶಾಸ್ತ್ರ",
+    "explanation": "Study of collections of distinct mathematical objects",
+    "subject": "Maths"
+  },
+  {
+    "english": "Union",
+    "kannada": "ಸಂಯೋಗ",
+    "explanation": "Combination of all elements from two or more sets",
+    "subject": "Maths"
+  },
+  {
+    "english": "Subset",
+    "kannada": "ಉಪ ಸಮೂಹ",
+    "explanation": "Set whose all elements belong to another set",
+    "subject": "Maths"
+  },
+  {
+    "english": "Function",
+    "kannada": "ಕ್ರಿಯೆ",
+    "explanation": "Rule assigning each input exactly one output",
+    "subject": "Maths"
+  },
+  {
+    "english": "Domain",
+    "kannada": "ಮೂಲ ಸಮೂಹ",
+    "explanation": "Set of all possible input values of a function",
+    "subject": "Maths"
+  },
+  {
+    "english": "Range",
+    "kannada": "ಪ್ರತಿಬಿಂಬ ಸಮೂಹ",
+    "explanation": "Set of all possible output values of a function",
+    "subject": "Maths"
+  },
+  {
+    "english": "Inverse Function",
+    "kannada": "ವಿಲೋಮ ಕ್ರಿಯೆ",
+    "explanation": "Function that reverses the action of another function",
+    "subject": "Maths"
+  },
+  {
+    "english": "Composite Function",
+    "kannada": "ಸಂಯುಕ್ತ ಕ್ರಿಯೆ",
+    "explanation": "Applying one function to the output of another",
+    "subject": "Maths"
+  },
+  {
+    "english": "Asymptote",
+    "kannada": "ಸ್ಪರ್ಶ ರೇಖೆ",
+    "explanation": "Line that a curve approaches but never reaches",
+    "subject": "Maths"
+  },
+  {
+    "english": "Modulus",
+    "kannada": "ಮಾಪಾಂಕ",
+    "explanation": "Absolute value or length of a complex number",
+    "subject": "Maths"
+  },
+  {
+    "english": "Complex Number",
+    "kannada": "ಸಂಕೀರ್ಣ ಸಂಖ್ಯೆ",
+    "explanation": "Number with real and imaginary parts combined",
+    "subject": "Maths"
+  },
+  {
+    "english": "Imaginary Number",
+    "kannada": "ಕಾಲ್ಪನಿಕ ಸಂಖ್ಯೆ",
+    "explanation": "Square root of a negative number",
+    "subject": "Maths"
+  },
+  {
+    "english": "Real Number",
+    "kannada": "ವಾಸ್ತವ ಸಂಖ್ಯೆ",
+    "explanation": "Any number on the number line including decimals",
+    "subject": "Maths"
+  },
+  {
+    "english": "Number Line",
+    "kannada": "ಸಂಖ್ಯಾ ರೇಖೆ",
+    "explanation": "Straight line representing all real numbers in order",
+    "subject": "Maths"
+  },
+  {
+    "english": "Infinity",
+    "kannada": "ಅನಂತ",
+    "explanation": "Concept of something without any bound or end",
+    "subject": "Maths"
+  },
+  {
+    "english": "Iteration",
+    "kannada": "ಪುನರಾವರ್ತನ",
+    "explanation": "Repeating a process to approach a desired result",
+    "subject": "Maths"
+  },
+  {
+    "english": "Interpolation",
+    "kannada": "ಅಂತರ ಅಂದಾಜು",
+    "explanation": "Estimating a value between known data points",
+    "subject": "Maths"
+  },
+  {
+    "english": "Extrapolation",
+    "kannada": "ಬಾಹ್ಯ ಅಂದಾಜು",
+    "explanation": "Estimating a value beyond known data points",
+    "subject": "Maths"
+  },
+  {
+    "english": "Regression",
+    "kannada": "ಹಿಂತಿರುವು",
+    "explanation": "Statistical method finding relationship between variables",
+    "subject": "Maths"
+  },
+  {
+    "english": "Correlation",
+    "kannada": "ಸಂಬಂಧ",
+    "explanation": "Measure of relationship between two variables",
+    "subject": "Maths"
+  },
+  {
+    "english": "Histogram",
+    "kannada": "ದಂಡ ಚಿತ್ರ",
+    "explanation": "Bar chart showing frequency distribution of data",
+    "subject": "Maths"
+  },
+  {
+    "english": "Pie Chart",
+    "kannada": "ವೃತ್ತ ಚಿತ್ರ",
+    "explanation": "Circular chart divided into sectors showing proportions",
+    "subject": "Maths"
+  },
+  {
+    "english": "Scatter Plot",
+    "kannada": "ಚದರು ಚಿತ್ರ",
+    "explanation": "Graph showing relationship between two variables as dots",
+    "subject": "Maths"
+  },
+  {
+    "english": "Normal Distribution",
+    "kannada": "ಸಾಮಾನ್ಯ ವಿತರಣೆ",
+    "explanation": "Bell-shaped curve showing how data is distributed",
+    "subject": "Maths"
+  },
+  {
+    "english": "Hypothesis Testing",
+    "kannada": "ಊಹೆ ಪರೀಕ್ಷೆ",
+    "explanation": "Statistical method to determine if claim about data is true",
+    "subject": "Maths"
+  },
+  {
+    "english": "Sample Space",
+    "kannada": "ಮಾದರಿ ಸ್ಥಳ",
+    "explanation": "Set of all possible outcomes of an experiment",
+    "subject": "Maths"
+  },
+  {
+    "english": "Event",
+    "kannada": "ಘಟನೆ",
+    "explanation": "Specific outcome or set of outcomes in probability",
+    "subject": "Maths"
+  },
+  {
+    "english": "Complement",
+    "kannada": "ಪೂರಕ ಸಮೂಹ",
+    "explanation": "All outcomes NOT in a given event",
+    "subject": "Maths"
+  },
+  {
+    "english": "Commerce",
+    "kannada": "ವಾಣಿಜ್ಯ",
+    "explanation": "Buying and selling of goods and services",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Accounting",
+    "kannada": "ಲೆಕ್ಕಶಾಸ್ತ್ರ",
+    "explanation": "Recording and managing financial transactions",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Ledger",
+    "kannada": "ಖಾತಾ ಪುಸ್ತಕ",
+    "explanation": "Book where all financial accounts are recorded",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Journal",
+    "kannada": "ರೋಜನಾಮೆ",
+    "explanation": "Daily record of all financial transactions",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Trial Balance",
+    "kannada": "ಶೋಧನ ಶೇಷ",
+    "explanation": "Statement checking debit and credit totals match",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Balance Sheet",
+    "kannada": "ಆಸ್ತಿಪಾಸ್ತಿ ಪಟ್ಟಿ",
+    "explanation": "Financial statement showing assets, liabilities, and equity",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Profit",
+    "kannada": "ಲಾಭ",
+    "explanation": "Gain when revenue exceeds expenses",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Loss",
+    "kannada": "ನಷ್ಟ",
+    "explanation": "Deficit when expenses exceed revenue",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Revenue",
+    "kannada": "ಆದಾಯ",
+    "explanation": "Total income earned by a business",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Expenditure",
+    "kannada": "ವೆಚ್ಚ",
+    "explanation": "Money spent by a business or person",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Asset",
+    "kannada": "ಆಸ್ತಿ",
+    "explanation": "Resource owned by a business having economic value",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Liability",
+    "kannada": "ಹೊಣೆ",
+    "explanation": "Debt or obligation a business owes to others",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Equity",
+    "kannada": "ಸ್ವಾಮ್ಯ ಬಂಡವಾಳ",
+    "explanation": "Owner's share in the business after liabilities",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Capital",
+    "kannada": "ಬಂಡವಾಳ",
+    "explanation": "Money or assets invested to start a business",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Depreciation",
+    "kannada": "ಮೌಲ್ಯ ಸವಕಳಿ",
+    "explanation": "Reduction in value of an asset over time",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Amortization",
+    "kannada": "ಕ್ರಮೇಣ ಮೌಲ್ಯ ಕಡಿತ",
+    "explanation": "Gradual paying off of debt or intangible asset cost",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Invoice",
+    "kannada": "ಸರಕು ಪಟ್ಟಿ",
+    "explanation": "Document sent to customer requesting payment for goods",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Receipt",
+    "kannada": "ರಸೀದಿ",
+    "explanation": "Document confirming payment has been received",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Voucher",
+    "kannada": "ಪಾವತಿ ಚೀಟಿ",
+    "explanation": "Document supporting a financial transaction",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Debit",
+    "kannada": "ನಾಮೆ",
+    "explanation": "Entry recording increase in asset or expense",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Credit",
+    "kannada": "ಜಮೆ",
+    "explanation": "Entry recording increase in liability or income",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Double Entry",
+    "kannada": "ದ್ವಿಮುಖ ಲೆಕ್ಕ",
+    "explanation": "Bookkeeping method where every transaction has two entries",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Audit",
+    "kannada": "ಲೆಕ್ಕ ಪರಿಶೋಧನೆ",
+    "explanation": "Independent examination of financial records",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Dividend",
+    "kannada": "ಲಾಭಾಂಶ",
+    "explanation": "Share of profits distributed to shareholders",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Interest",
+    "kannada": "ಬಡ್ಡಿ",
+    "explanation": "Cost of borrowing money or return on lending",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Principal",
+    "kannada": "ಮೂಲ ಮೊತ್ತ",
+    "explanation": "Original amount of money borrowed or invested",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Inflation",
+    "kannada": "ಹಣದುಬ್ಬರ",
+    "explanation": "General rise in prices over time",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Deflation",
+    "kannada": "ಹಣಸಂಕೋಚ",
+    "explanation": "General decrease in prices over time",
+    "subject": "Commerce"
+  },
+  {
+    "english": "GDP",
+    "kannada": "ಒಟ್ಟು ದೇಶೀಯ ಉತ್ಪಾದನೆ",
+    "explanation": "Total value of goods and services produced by a country",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Budget",
+    "kannada": "ಬಜೆಟ್",
+    "explanation": "Plan for expected income and spending",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Surplus",
+    "kannada": "ಉಳಿತಾಯ",
+    "explanation": "Amount remaining after all expenses are paid",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Deficit",
+    "kannada": "ಕೊರತೆ",
+    "explanation": "Amount by which expenses exceed income",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Taxation",
+    "kannada": "ತೆರಿಗೆ ವಿಧಿಸುವಿಕೆ",
+    "explanation": "System of collecting money by government from citizens",
+    "subject": "Commerce"
+  },
+  {
+    "english": "GST",
+    "kannada": "ವಸ್ತು ಸೇವಾ ತೆರಿಗೆ",
+    "explanation": "Goods and Services Tax applied on products and services",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Demand",
+    "kannada": "ಬೇಡಿಕೆ",
+    "explanation": "Consumer willingness and ability to buy a product",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Supply",
+    "kannada": "ಪೂರೈಕೆ",
+    "explanation": "Amount of product available in the market",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Market",
+    "kannada": "ಮಾರುಕಟ್ಟೆ",
+    "explanation": "Place where buyers and sellers exchange goods",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Monopoly",
+    "kannada": "ಏಕಸ್ವಾಮ್ಯ",
+    "explanation": "Single seller dominates the entire market",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Oligopoly",
+    "kannada": "ಅಲ್ಪ ಸ್ವಾಮ್ಯ",
+    "explanation": "Few large firms dominate a market",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Competition",
+    "kannada": "ಸ್ಪರ್ಧೆ",
+    "explanation": "Rivalry between businesses selling similar products",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Entrepreneur",
+    "kannada": "ಉದ್ಯಮಿ",
+    "explanation": "Person who starts and runs a new business",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Partnership",
+    "kannada": "ಪಾಲುದಾರಿಕೆ",
+    "explanation": "Business owned and managed by two or more people",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Sole Proprietor",
+    "kannada": "ಏಕಮಾಲಕ",
+    "explanation": "Business owned and run by a single individual",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Corporation",
+    "kannada": "ನಿಗಮ",
+    "explanation": "Large business entity registered as a legal person",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Franchise",
+    "kannada": "ಫ್ರಾಂಚೈಸ್",
+    "explanation": "License to operate a business under another company's brand",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Shares",
+    "kannada": "ಷೇರುಗಳು",
+    "explanation": "Units of ownership in a company",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Stock Exchange",
+    "kannada": "ಷೇರು ಮಾರುಕಟ್ಟೆ",
+    "explanation": "Place where shares of companies are bought and sold",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Portfolio",
+    "kannada": "ಹೂಡಿಕೆ ಪಟ್ಟಿ",
+    "explanation": "Collection of investments held by a person or firm",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Bond",
+    "kannada": "ಋಣಪತ್ರ",
+    "explanation": "Debt security issued by company or government",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Debenture",
+    "kannada": "ಋಣಸ್ವೀಕಾರ ಪತ್ರ",
+    "explanation": "Long-term debt instrument issued by a company",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Mortgage",
+    "kannada": "ಅಡಮಾನ",
+    "explanation": "Loan secured against property as collateral",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Collateral",
+    "kannada": "ಭದ್ರತೆ",
+    "explanation": "Asset pledged as security for a loan",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Liquidity",
+    "kannada": "ನಗದೀಕರಣ ಸಾಮರ್ಥ್ಯ",
+    "explanation": "Ease with which asset can be converted to cash",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Solvency",
+    "kannada": "ಋಣ ಪರಿಹಾರ ಸಾಮರ್ಥ್ಯ",
+    "explanation": "Ability to meet long-term financial obligations",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Insolvency",
+    "kannada": "ದಿವಾಳಿ ಸ್ಥಿತಿ",
+    "explanation": "Inability to pay debts as they become due",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Bankruptcy",
+    "kannada": "ದಿವಾಳಿ",
+    "explanation": "Legal process when a business cannot repay its debts",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Lease",
+    "kannada": "ಗುತ್ತಿಗೆ",
+    "explanation": "Agreement to use an asset for a specific period in return for payment",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Rent",
+    "kannada": "ಬಾಡಿಗೆ",
+    "explanation": "Payment for using another's property",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Salary",
+    "kannada": "ವೇತನ",
+    "explanation": "Fixed monthly payment to an employee",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Wages",
+    "kannada": "ಕೂಲಿ",
+    "explanation": "Payment based on hours worked",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Commission",
+    "kannada": "ಕಮಿಷನ್",
+    "explanation": "Payment based on percentage of sales made",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Trade",
+    "kannada": "ವ್ಯಾಪಾರ",
+    "explanation": "Buying and selling of goods between parties",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Export",
+    "kannada": "ರಫ್ತು",
+    "explanation": "Selling goods to another country",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Import",
+    "kannada": "ಆಮದು",
+    "explanation": "Buying goods from another country",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Tariff",
+    "kannada": "ಸುಂಕ",
+    "explanation": "Tax imposed on imported goods",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Subsidy",
+    "kannada": "ಸಹಾಯಧನ",
+    "explanation": "Government payment to reduce cost of goods or services",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Insurance",
+    "kannada": "ವಿಮೆ",
+    "explanation": "Protection against financial loss or risk",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Premium",
+    "kannada": "ವಿಮಾ ಕಂತು",
+    "explanation": "Regular payment made for an insurance policy",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Claim",
+    "kannada": "ಹಕ್ಕು",
+    "explanation": "Request made to insurer for compensation after a loss",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Bank",
+    "kannada": "ಬ್ಯಾಂಕ್",
+    "explanation": "Financial institution for saving and lending money",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Cheque",
+    "kannada": "ಚೆಕ್",
+    "explanation": "Written order to bank to pay a specified amount",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Draft",
+    "kannada": "ಹುಂಡಿ",
+    "explanation": "Order to pay money to a specific person or bank",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Promissory Note",
+    "kannada": "ವಾಗ್ದಾನ ಪತ್ರ",
+    "explanation": "Written promise to pay a specific sum at a future date",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Credit Card",
+    "kannada": "ಸಾಲ ಚೀಟಿ",
+    "explanation": "Card allowing purchases with borrowed money",
+    "subject": "Commerce"
+  },
+  {
+    "english": "EMI",
+    "kannada": "ಮಾಸಿಕ ಕಂತು",
+    "explanation": "Fixed monthly payment to repay a loan",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Payroll",
+    "kannada": "ವೇತನ ಪಟ್ಟಿ",
+    "explanation": "List of employees and the amount they are paid",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Goodwill",
+    "kannada": "ಸದ್ಭಾವನೆ",
+    "explanation": "Intangible value of a business's reputation",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Trademark",
+    "kannada": "ವ್ಯಾಪಾರ ಮುದ್ರೆ",
+    "explanation": "Registered symbol or name identifying a brand",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Patent",
+    "kannada": "ಏಕಸ್ವ ಹಕ್ಕು",
+    "explanation": "Exclusive right granted to an inventor for their invention",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Copyright",
+    "kannada": "ಪ್ರತಿಲಿಪಿ ಹಕ್ಕು",
+    "explanation": "Legal protection for original creative works",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Wholesaler",
+    "kannada": "ಸಗಟು ವ್ಯಾಪಾರಿ",
+    "explanation": "Person who buys in bulk and sells to retailers",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Retailer",
+    "kannada": "ಚಿಲ್ಲರೆ ವ್ಯಾಪಾರಿ",
+    "explanation": "Business selling goods directly to consumers",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Consumer",
+    "kannada": "ಗ್ರಾಹಕ",
+    "explanation": "Person who uses goods and services",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Producer",
+    "kannada": "ಉತ್ಪಾದಕ",
+    "explanation": "Person or company that makes goods",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Distributor",
+    "kannada": "ವಿತರಕ",
+    "explanation": "Business that supplies goods from producer to seller",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Marketing",
+    "kannada": "ಮಾರಾಟ ತಂತ್ರ",
+    "explanation": "Activities promoting and selling products to customers",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Advertisement",
+    "kannada": "ಜಾಹೀರಾತು",
+    "explanation": "Public message promoting a product or service",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Brand",
+    "kannada": "ಬ್ರ್ಯಾಂಡ್",
+    "explanation": "Name, symbol identifying a company's products",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Cash Flow",
+    "kannada": "ನಗದು ಹರಿವು",
+    "explanation": "Movement of money in and out of a business",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Working Capital",
+    "kannada": "ಚಾಲ್ತಿ ಬಂಡವಾಳ",
+    "explanation": "Money available for day-to-day business operations",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Fixed Asset",
+    "kannada": "ಸ್ಥಿರ ಆಸ್ತಿ",
+    "explanation": "Long-term asset used in business operations",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Current Asset",
+    "kannada": "ಚಾಲ್ತಿ ಆಸ್ತಿ",
+    "explanation": "Asset that can be converted to cash within one year",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Creditor",
+    "kannada": "ಸಾಲ ನೀಡಿದವನು",
+    "explanation": "Person to whom money is owed by the business",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Debtor",
+    "kannada": "ಸಾಲ ಪಡೆದವನು",
+    "explanation": "Person who owes money to the business",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Accrual",
+    "kannada": "ಅರ್ಜಿತ ಲೆಕ್ಕ",
+    "explanation": "Recording income or expense when earned, not when paid",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Provision",
+    "kannada": "ನಿಬಂಧನೆ",
+    "explanation": "Amount set aside for anticipated future expense",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Reserve",
+    "kannada": "ಮೀಸಲು",
+    "explanation": "Portion of profit kept for future use",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Overhead",
+    "kannada": "ಸಾಮಾನ್ಯ ವೆಚ್ಚ",
+    "explanation": "Ongoing business expenses not tied to production",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Break Even",
+    "kannada": "ಸರಿಸಮ ಹಂತ",
+    "explanation": "Point where total revenue equals total costs",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Cost Price",
+    "kannada": "ಕ್ರಯಬೆಲೆ",
+    "explanation": "Price paid to buy or produce a product",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Selling Price",
+    "kannada": "ಮಾರಾಟ ಬೆಲೆ",
+    "explanation": "Price at which a product is sold to customer",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Markup",
+    "kannada": "ಹೆಚ್ಚುವರಿ ಬೆಲೆ",
+    "explanation": "Difference between cost price and selling price",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Discount",
+    "kannada": "ರಿಯಾಯಿತಿ",
+    "explanation": "Reduction in the price of a product",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Trade Discount",
+    "kannada": "ವ್ಯಾಪಾರ ರಿಯಾಯಿತಿ",
+    "explanation": "Discount given by seller to another business",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Cash Discount",
+    "kannada": "ನಗದು ರಿಯಾಯಿತಿ",
+    "explanation": "Reduction offered for immediate or early payment",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Barter",
+    "kannada": "ವಸ್ತು ವಿನಿಮಯ",
+    "explanation": "Exchange of goods without using money",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Currency",
+    "kannada": "ಚಲಾವಣೆ ನಾಣ್ಯ",
+    "explanation": "System of money used in a country",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Exchange Rate",
+    "kannada": "ವಿನಿಮಯ ದರ",
+    "explanation": "Value of one currency compared to another",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Investment",
+    "kannada": "ಹೂಡಿಕೆ",
+    "explanation": "Using money to earn future profit or income",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Return on Investment",
+    "kannada": "ಹೂಡಿಕೆ ಲಾಭ",
+    "explanation": "Profit gained from an investment compared to its cost",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Risk",
+    "kannada": "ಅಪಾಯ",
+    "explanation": "Possibility of loss or unfavorable outcome",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Speculation",
+    "kannada": "ಊಹಾ ವ್ಯಾಪಾರ",
+    "explanation": "High-risk investment hoping for quick profit",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Merger",
+    "kannada": "ವಿಲೀನ",
+    "explanation": "Combining of two companies into one",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Acquisition",
+    "kannada": "ಸ್ವಾಧೀನ",
+    "explanation": "One company buying another company",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Liquidation",
+    "kannada": "ಸಂಸ್ಥೆ ವಿಸರ್ಜನ",
+    "explanation": "Closing a business by selling all its assets",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Recession",
+    "kannada": "ಆರ್ಥಿಕ ಹಿಂಜರಿತ",
+    "explanation": "Period of economic decline and falling GDP",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Fiscal Policy",
+    "kannada": "ಹಣಕಾಸು ನೀತಿ",
+    "explanation": "Government policy managing taxes and spending",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Monetary Policy",
+    "kannada": "ಹಣ ನಿಯಂತ್ರಣ ನೀತಿ",
+    "explanation": "Central bank control of money supply and interest rates",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Microeconomics",
+    "kannada": "ಸೂಕ್ಷ್ಮ ಅರ್ಥಶಾಸ್ತ್ರ",
+    "explanation": "Study of individual economic decisions and markets",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Macroeconomics",
+    "kannada": "ಸ್ಥೂಲ ಅರ್ಥಶಾಸ್ತ್ರ",
+    "explanation": "Study of economy as a whole including national output",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Scarcity",
+    "kannada": "ಅಭಾವ",
+    "explanation": "Limited resources relative to unlimited wants",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Opportunity Cost",
+    "kannada": "ಪರ್ಯಾಯ ವೆಚ್ಚ",
+    "explanation": "Value of next best alternative given up when making a choice",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Elasticity",
+    "kannada": "ಬೇಡಿಕೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತೆ",
+    "explanation": "Sensitivity of demand or supply to price changes",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Accounting Period",
+    "kannada": "ಲೆಕ್ಕ ಅವಧಿ",
+    "explanation": "Time span covered by financial statements usually one year",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Fiscal Year",
+    "kannada": "ಹಣಕಾಸು ವರ್ಷ",
+    "explanation": "12-month period used for accounting and tax purposes",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Net Worth",
+    "kannada": "ನಿವ್ವಳ ಮೌಲ್ಯ",
+    "explanation": "Total assets minus total liabilities of a person or business",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Income Statement",
+    "kannada": "ಆದಾಯ ವರದಿ",
+    "explanation": "Financial report showing profit or loss over a period",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Cash Book",
+    "kannada": "ನಗದು ಪುಸ್ತಕ",
+    "explanation": "Book recording all cash receipts and payments",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Petty Cash",
+    "kannada": "ಚಿಲ್ಲರೆ ನಗದು",
+    "explanation": "Small amount of money kept for minor everyday expenses",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Bank Reconciliation",
+    "kannada": "ಬ್ಯಾಂಕ್ ಮಿಲಾನ",
+    "explanation": "Matching bank statement with business cash book",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Consignment",
+    "kannada": "ಸರಕು ಒಪ್ಪಂದ",
+    "explanation": "Goods sent to agent for sale on behalf of owner",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Cartel",
+    "kannada": "ಉತ್ಪಾದಕರ ಒಕ್ಕೂಟ",
+    "explanation": "Group of companies colluding to control prices",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Embargo",
+    "kannada": "ವ್ಯಾಪಾರ ನಿಷೇಧ",
+    "explanation": "Government ban on trade with specific country",
+    "subject": "Commerce"
+  }
+]

@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Adaptive Icon Safe Zone is roughly a circle with 66dp diameter centered (33dp to 75dp range) -->
+
+    <!-- Subtle Shadow behind the book -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M38,32h36c2,0 4,2 4,4v42c0,2 -2,4 -4,4h-36c-2,0 -4,-2 -4,-4v-42c0,-2 2,-4 4,-4z" />
+
+    <!-- Main Book Cover (Indigo) -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M37,30h34c2,0 4,1.8 4,4v40c0,2.2 -1.8,4 -4,4h-34c-2,0 -4,-1.8 -4,-4v-40c0,-2.2 2,-4 4,-4z" />
+
+    <!-- Book Spine Detail (Teal) -->
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M33,30h6v48h-6c-2,0 -4,-1.8 -4,-4v-40c0,-2.2 2,-4 4,-4z" />
+
+    <!-- Paper edges/pages on the side (Off-white) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M75,34h1.5v40h-1.5z" />
+
+    <!-- Magnifying Glass Icon on Cover -->
+    <path
+        android:strokeColor="#F8FAFC"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M52,42a6,6 0,1 0,12 0a6,6 0,1 0,-12 0zM62,48l4,4" />
+
+    <!-- Text line representations -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M44,58h22v1.5h-22z" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M44,63h16v1.5h-16z" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M44,68h20v1.5h-20z" />
+
+</vector>
